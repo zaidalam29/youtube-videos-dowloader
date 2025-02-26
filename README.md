@@ -34,9 +34,9 @@ cd youtube-videos-dowloader
 ```
 
 ### **Step 3: Install Dependencies**
-Run the following command to install the required Python packages:
+Since there is no `requirements.txt`, install the necessary package manually:
 ```bash
-pip install -r requirements.txt
+pip install pytube
 ```
 If you encounter any errors related to `pytube`, update it manually:
 ```bash
